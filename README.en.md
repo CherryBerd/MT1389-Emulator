@@ -57,15 +57,15 @@ Commit the changes and send a Pull Request.
 
 ```plaintext
 MT1389-Emulator/
-├── docs/ # Documentation
-├── src/ # Source code
-│ ├── core/ # CPU and hardware emulation
-│ ├── gui/ # Interface (Pygame)
-│ └── utils/ # Auxiliary scripts
-├── tests/ # Tests
-├── roms/ # Firmware in *.BIN format
-├── requirements.txt (File missing!)
-└── LICENSE # MIT license (needs to be added!)
+├── docs/                 # Documentation
+├── src/                  # Source code
+│ ├── core/               # CPU and hardware emulation
+│ ├── gui/                # Interface (Pygame)
+│ └── utils/              # Auxiliary scripts
+├── tests/                # Tests
+├── roms/                 # Firmwares in *.BIN format
+├── requirements.txt      # (File missing!)
+└── LICENSE               # MIT license (needs to be added!)
 ```
 
 # 📜 License
